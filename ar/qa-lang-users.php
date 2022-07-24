@@ -97,7 +97,7 @@
 		'password_to_set' => 'يرجى إعدادها على صفحة حسابك',
 		'password_wrong' => 'كلمة المرور غير صحيحة',
 		'private_messages_explanation' => 'اسمح للمستخدمين بمراسلتي [دون إظهار عنوان بريدي الإلكتروني]',
-		'private_messages' => 'رسائل خاصة:',
+		'private_messages' => 'رسائل خاصة',
 		'profile_saved' => 'تم حفظ الملف الشخصي',
 		'register_button' =>	 'تسجيل',
 		'register_limit' => 'كثرت التسجيلات - الرجاء المحاولة بعد ساعة',
