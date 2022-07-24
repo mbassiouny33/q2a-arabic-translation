@@ -1,9 +1,10 @@
 # q2a-arabic-translation
-Arabic translation files for q2a
+This is Arabic translation updates for Question2Answer 1.8.x based Musab Alqaiduh @ Soalwjwab files with few corrections.
+
 
 
 A git repo for the sake of consistency and collaboration instead of weird mediafire links we're using as if git was never invented.
-
+Feel free to commit your corrections to this repo. 
 # usage (EN)
 
  download this repo by clicking on the green "code" button> download zip
