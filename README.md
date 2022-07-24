@@ -1,5 +1,5 @@
 # q2a-arabic-translation
-This is Arabic translation updates for Question2Answer 1.8.x based Musab Alqaiduh @ Soalwjwab files with few corrections.
+This is the Arabic translation updates for Question2Answer 1.8.x based on Musab Alqaiduh @ Soalwjwab files with few corrections.
 
 
 
