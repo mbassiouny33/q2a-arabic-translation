@@ -3,8 +3,9 @@ This is the Arabic translation updates for Question2Answer 1.8.x based on Musab 
 
 
 
-A git repo for the sake of consistency and collaboration instead of weird mediafire links we're using as if git was never invented.
-Feel free to commit your corrections to this repo. 
+A git repo for the sake of consistency and collaboration
+Feel free to commit your corrections to this repo. I am quite active on github in general, I should look at issues and approve PR in a reasonable delay.
+
 # usage (EN)
 
  download this repo by clicking on the green "code" button> download zip
@@ -17,4 +18,4 @@ Feel free to commit your corrections to this repo.
 
 
 # changelog 
-- 25/07/2022 : First release (by me)
+- 25/07/2022 : First release v1 (by me)
