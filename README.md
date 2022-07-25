@@ -14,3 +14,7 @@ Feel free to commit your corrections to this repo.
  # طريقة الاستخدام
  قم بتحميل الأرشيف ال.zip 
  فك الضغط وقم بلصق مجلد ar في مجلد qa-lang
+
+
+# changelog 
+- 25/07/2022 : First release (by me)
