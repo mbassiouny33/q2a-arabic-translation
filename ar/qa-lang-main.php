@@ -215,7 +215,7 @@
 		'vote_disabled_approve' => "يجب الموافقة على حسابك كي تتمكن من التصويت",
 		'vote_disabled_down_approve' => "يجب الموافقة على حسابك كي تتمكن من التصويت السلبي",
 		'vote_disabled_level' => "يقتصر التصويت على بعض المستخدمين فقط",
-		'written' => "placeholder",
+		'written' => "كتب",
 		'x_ago' => 'منذ ^',
 		'x_answers' => '^ إجابة',
 		'x_comments' => '^ تعليقات',
