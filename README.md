@@ -19,3 +19,7 @@ Feel free to commit your corrections to this repo. I am quite active on github i
 
 # changelog 
 - 25/07/2022 : First release v1 (by me)
+- 24/08/2024 : First release v2 (by me)
+a few fixes
+- 01/09/2024 : Third release v3 (by me)
+fixed max_upload message
