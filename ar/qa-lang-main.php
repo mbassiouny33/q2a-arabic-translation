@@ -97,7 +97,7 @@
 		'ip_address_x' => 'عنوان IP ^',
 		'logged_in_x' => 'مرحبًا ^',
 		'max_length_x' => 'أقصى طول هو ^ حرفًا',
-		'max_upload_size_x' => "السعة الأعظمية للرفع هي ^",
+		'max_upload_size_x' => "أقصى حجم مسموح ^",
 		'me' => 'أنا',
 		'meta_order' => "^what^when^where^who",
 		'min_length_x' => 'من فضلك قدم المزيد من المعلومات [على الأقل ^ حرفًا]',
